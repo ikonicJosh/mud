@@ -1,4 +1,4 @@
-import{r as dt,j as Re}from"./react-C6IRzGXw.js";import{b as xs}from"./index-Bsd7Ecmz.js";/**
+import{r as dt,j as Re}from"./react-C6IRzGXw.js";import{b as xs}from"./index-CDGx1dnY.js";/**
  * @license
  * Copyright 2010-2024 Three.js Authors
  * SPDX-License-Identifier: MIT
