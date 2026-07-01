@@ -1,1 +1,0 @@
-import{b as o}from"./index-7m5LJrod.js";function r(t,e){const n=(e||[]).filter(Boolean);n.length&&(t.preventDefault(),t.stopPropagation(),o.emit("ctxmenu",{x:t.clientX,y:t.clientY,items:n}))}export{r as o};
