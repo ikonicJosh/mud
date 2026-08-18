@@ -1,0 +1,11 @@
+node_modules/
+dist/
+
+# Runtime state. The database holds real prospect data and conversation history,
+# and the Chrome profile holds a live LinkedIn session — neither belongs in git.
+data/
+PAUSE
+
+.env
+.env.local
+*.log
